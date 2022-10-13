@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Posma Janius Sianturi</h1>
-<h3 align="center">A passionate mobile apps developer from Indonesia</h3>
+<h3 align="center">Work as Mobile Apps developer, from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psianturi&label=Profile%20views&color=0e75b6&style=flat" alt="psianturi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **psianturi@student.tau.ac.id**
 
-- ⚡ Fun fact **I like the balance life system, and keep young spirit**
+- ⚡ Fun fact **Balance life system & youth spirit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
