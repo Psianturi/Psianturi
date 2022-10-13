@@ -24,3 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psianturi&show_icons=true&locale=en" alt="psianturi" /></p>
 
+<br>
+
+![](https://octodex.github.com/images/NUX_Octodex.gif)
+![NUX_Octodex](https://user-images.githubusercontent.com/42699234/195494675-e3494db8-7c26-4dd2-a006-fe20652335be.gif)
+
