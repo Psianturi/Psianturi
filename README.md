@@ -30,3 +30,7 @@
 ![NUX_Octodex](https://user-images.githubusercontent.com/42699234/195494675-e3494db8-7c26-4dd2-a006-fe20652335be.gif)
 
 https://octodex.github.com/nuxtocat/
+
+<br>
+
+[![@posmajan's Holopin board](https://holopin.me/posmajan)](https://holopin.io/@posmajan)
