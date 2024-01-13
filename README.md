@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Posma Janius Sianturi</h1>
-<h3 align="center">Work as Mobile Apps developer, from Indonesia</h3>
+<h3 align="center">From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psianturi&label=Profile%20views&color=0e75b6&style=flat" alt="psianturi" /> </p>
 
