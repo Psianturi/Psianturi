@@ -7,8 +7,6 @@
 
 - 🌱 Learning 
 
-- 📫 How to reach me **psianturi@student.tau.ac.id**(web2 email) , **psiantur1@dmail.ai**(web3 email)
-
 - ⚡ Fun fact **Balance life system & youth spirit**
 
 </p>
