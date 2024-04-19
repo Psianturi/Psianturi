@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psianturi" alt="psianturi" /></a> </p>
 
-- 🌱 Learning 
+- 🌱 **Learning**
 
-- ⚡ Fun fact **Balance life system & youth spirit**
+- ⚡ **Balance life system & youth spirit**
 
 </p>
 
